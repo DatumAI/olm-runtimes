@@ -1,1 +1,1 @@
-docker run --rm -it datumai/olm-mock-runtime:latest
+docker run --rm -it blewandowskidatumai/olm-mock-runtime:latest

@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build . -t datumai/olm-mock-runtime:latest
+docker build . -t blewandowskidatumai/olm-mock-runtime:latest
